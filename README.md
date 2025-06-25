@@ -1,5 +1,6 @@
 # canteen-management-system
  Features
+ 
 📋 Menu browsing with categories
 
 🛒 Place and manage orders
@@ -11,6 +12,7 @@
 💳 (Optional) Payment integration support
 
 📊 Order history & analytics (for admins)
+
 
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript 
